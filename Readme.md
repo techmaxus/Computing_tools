@@ -8,7 +8,7 @@
 
  * ### Data visualization and Analytics 
    * #### Uber Data
-   * Analysed Uber dataset for six month and found various insights using R.
+   * Analysed sales of various video game titles and found various insights using R.
 
  * ### Advances in Data Visualization and Analytics 
    * Analysed Covid-19 time series data provided by John Hopkin University to get visual insights using PowerBI.
